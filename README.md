@@ -1,6 +1,10 @@
-👋 Hi I'm Uroš! I'm a Full Stack Developer specializing in web applications.
+## 👋 Hi I'm Uroš! 
 
-🔧 Skills: Typescript, .NET, PostgreSQL, Microsoft SQL Server, Node.js, Vue, Nuxt, Docker, Kubernetes, Smart Contracts...
+### About
+
+I'm a Full Stack Developer specializing in web applications.
+
+🔧 Skills: Typescript, .NET, PostgreSQL, Microsoft SQL Server, Node.js, Vue, Nuxt, Docker, Kubernetes, Smart Contracts, Hyperledger Fabric,...
 
 <!--
 **jurosm/jurosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
